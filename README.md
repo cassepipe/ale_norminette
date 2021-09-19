@@ -7,6 +7,6 @@ This linter needs [ALE](https://github.com/dense-analysis/ale) (Asynchronous Lin
 
 If you've installed ALE with [Vim Plug](https://github.com/junegunn/vim-plug) just copy `norminette.vim` into `~/.vim/plugged/ale/ale_linters/c/` directory or `~/.config/nvim/plugged/ale/ale_linters/c` if you are using Neovim.
 
-If you have installed ALE with another method you'll be able to find the equivalent path in `~/.vim/`
+If you have installed ALE with another method I am sure you'll be able to find the equivalent path in `~/.vim/`
 
 Good luck
